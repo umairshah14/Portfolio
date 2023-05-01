@@ -18,9 +18,11 @@ const Home = () => {
               A Junior Full Stack Developer
             </h2>
             <p className="text-slate-400 py-4 max-w-[700px] ">
-              I've been coding for just under 2 years now, im passionate about
-              learning, enthusiastic about tech and hungry for an opportunity to
-              show what i can bring to the table
+              I've been coding for just under 2 years now and have attended
+              multiple bootcamps. Originally coming from a musical background, i
+              decided to make a shift into Tech, and well, here i am. I'm
+              passionate about learning, enthusiastic about tech and hungry for
+              an opportunity to show what i can bring to the table
             </p>
             <div>
               <button className="text-white group border-2 px-4 py-3 my-2 flex items-center rounded-lg hover:bg-neutral-800 hover:border-neutral-800">
