@@ -17,7 +17,7 @@ const Home = () => {
             <h2 className="text-3xl sm:text-6xl font-bold text-yellow-700">
               A Junior Full Stack Developer
             </h2>
-            <p className="text-slate-400 py-4 max-w-[700px] ">
+            <p className="text-gray-200 py-4 max-w-[700px] ">
               I've been coding for just under 2 years now and have attended
               multiple bootcamps. Originally coming from a musical background, i
               decided to make a shift into Tech, and well, here i am. I'm
