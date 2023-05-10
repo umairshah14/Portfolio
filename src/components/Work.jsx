@@ -9,8 +9,6 @@ const Work = () => {
     "https://raw.githubusercontent.com/umairshah14/Premier-League-Info/main/assets/images/Screenshot%202023-02-07%20at%2018.28.54.png";
   const ForecastImg =
     "https://raw.githubusercontent.com/umairshah14/Weather-Dashboard/main/Screenshot%202023-01-31%20at%2022.40.35.png";
-  const CodingQuizImg =
-    "https://raw.githubusercontent.com/umairshah14/Multiple-Choice-Quiz/main/assets/images/Screenshot%202023-02-04%20at%2016.59.05.png";
   const PasswordGenImg =
     "https://raw.githubusercontent.com/umairshah14/Password-Generator/main/Screenshot%202023-01-11%20at%2019.54.33.png";
   const ReadMeGen =

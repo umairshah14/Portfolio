@@ -11,15 +11,7 @@ import pdf from "../assets/cv.pdf";
 const Navbar = () => {
   const [nav, setNav] = useState(false);
   const handleClick = () => setNav(!nav);
-  const handleDownload = (url, filename) => {
-    axios
-      .get(url, {
-        responseType: "blob",
-      })
-      .then((res) => {
-        fileDownload(res.data, filename);
-      });
-  };
+
   return (
     <div className="fixed w-full h-[80px] flex justify-between items-center px-4 bg-neutral-900 text-slate-200 z-50">
       <div>
