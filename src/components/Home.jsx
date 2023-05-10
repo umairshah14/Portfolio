@@ -1,6 +1,7 @@
 import React from "react";
 import { HiArrowNarrowRight } from "react-icons/hi";
 import Me from "../assets/memoji.png";
+import { Link } from "react-scroll";
 const Home = () => {
   return (
     <div name="home" className="w-full h-screen bg-black">
@@ -25,12 +26,16 @@ const Home = () => {
               an opportunity to show what i can bring to the table
             </p>
             <div>
-              <button className="text-white group border-2 px-4 py-3 my-2 flex items-center rounded-lg hover:bg-neutral-800 hover:border-neutral-800">
-                View work
-                <span className="group-hover:rotate-90 duration-300">
-                  <HiArrowNarrowRight className="ml-3" />
-                </span>
-              </button>
+              <Link
+                activeClass="active" to="work" smooth={true}
+                duration={500}>
+                <button className="text-white group border-2 px-4 py-3 my-2 flex items-center rounded-lg hover:bg-neutral-800 hover:border-neutral-800">
+                  View Work
+                  <span className="group-hover:rotate-90 duration-300">
+                    <HiArrowNarrowRight className="ml-3" />
+                  </span>
+                </button>
+              </Link>
             </div>
           </div>
         </div>
