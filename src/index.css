@@ -15,3 +15,15 @@
         @apply cursor-pointer;
     }
 }
+
+.content-div {
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-position: center;
+    height: 250px;
+}
+
+.content-div:hover {
+  transition: transform .2s !important; 
+  transform-origin: center center !important;
+}
