@@ -4,8 +4,6 @@ import { HiOutlineMail } from "react-icons/hi";
 import { BsFillPersonLinesFill } from "react-icons/bs";
 import Logo from "../assets/favicon.ico";
 import { Link } from "react-scroll";
-import axios from "axios";
-import fileDownload from "js-file-download";
 import pdf from "../assets/cv.pdf";
 
 const Navbar = () => {
