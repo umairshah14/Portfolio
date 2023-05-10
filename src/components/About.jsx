@@ -15,15 +15,12 @@ const About = () => {
         <div className="max-w-[1000px] w-full sm:grid grid-cols-2 gap-8 px-4">
           <div className="sm:text-right text-4xl font-bold pl-2 ">
             <p>
-              Hi, Im Umair nice to meet yopu nice to meet you please take a look
+              Hi, Im Umair nice to meet you nice to meet you please take a look
               around
             </p>
           </div>
           <div className="sm:text-left pl-2 ">
-            Lorem ipsum dolor, sit amet consectetur adipisicing elit. Dolore
-            repellat rerum sequi repellendus asperiores earum fugit delectus
-            aliquid magnam, obcaecati dicta, illo velit tempora praesentium
-            repudiandae cupiditate voluptatibus tenetur nesciunt.
+            I've been coding for just under 2 years now and have attended multiple bootcamps. I'm looking for an entry role as a Junior Software Developer. Over my 2 years of learning iv learnt an array of technologies including Node, React, HTML and CSS to name a few.
           </div>
         </div>
       </div>
