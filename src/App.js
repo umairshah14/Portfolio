@@ -7,13 +7,14 @@ import Contact from "./components/Contact";
 
 function App() {
   return (
-    <div>
+    <div className="snap-y snap-mandatory">
       <Navbar/>  
       <Home/>
       <About/>
       <Skills/>
       <Work/>
       <Contact/>
+
     </div>
   );
 }
