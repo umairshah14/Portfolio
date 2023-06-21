@@ -1,5 +1,5 @@
 import React from "react";
-import ReactImg from "/Users/umairshah/Projects/portfolio/src/assets/react.png";
+import ReactImg from "../../assets/react.png";
 
 const ReactTag = () => {
   return (

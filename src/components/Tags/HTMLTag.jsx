@@ -1,5 +1,5 @@
 import React from "react";
-import HTML from "/Users/umairshah/Projects/portfolio/src/assets/html.png"
+import HTML from "../../assets/html.png"
 
 const HTMLTag = () => {
   return (

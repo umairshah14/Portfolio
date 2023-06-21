@@ -1,5 +1,5 @@
 import React from "react";
-import API from "/Users/umairshah/Projects/portfolio/src/assets/API2.png"
+import API from "../../assets/API2.png"
 
 const ApiTag = () => {
   return (

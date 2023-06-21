@@ -1,5 +1,5 @@
 import React from "react";
-import NodeImg from "/Users/umairshah/Projects/portfolio/src/assets/node.png"
+import NodeImg from "../../assets/node.png"
 
 const NodejsTag = () => {
   return (
